@@ -14,7 +14,3 @@ install:
 build_script:
   -  chmod +x gradlew
   - ./gradlew test --info
-  Footer
-  © 2022 GitHub, Inc.
-  Footer navigation
-  Terms
